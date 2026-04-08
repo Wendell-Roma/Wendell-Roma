@@ -90,10 +90,19 @@ I'm looking for my first opportunity in IT to apply what I've been learning and 
 
 ### GitHub stats
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Wendell-Roma&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendell-Roma&layout=compact&theme=default&hide_border=true" />
-</p>
+<img src="https://streak-stats.demolab.com?user=Wendell-Roma&theme=dark&hide_border=true&locale=pt_BR" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Wendell-Roma&show_icons=true&theme=dark&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendell-Roma&layout=compact&theme=dark&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Wendell-Roma&theme=darkhub&no-frame=true&row=1" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wendell-Roma&theme=github-compact&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wendell-Roma&theme=github-compact&hide_border=true" />
+
+
 
 ---
 
