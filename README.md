@@ -46,8 +46,8 @@ Estou em busca da minha primeira oportunidade na área de TI para aplicar o que 
 ### Estatísticas
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Wendell-Roma&show_icons=true&theme=default&hide_border=true&count_private=true&locale=pt-br" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendell-Roma&layout=compact&theme=default&hide_border=true&locale=pt-br" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Wendell-Roma&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendell-Roma&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -91,8 +91,7 @@ I'm looking for my first opportunity in IT to apply what I've been learning and 
 ### GitHub stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Wendell-Roma&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendell-Roma&layout=compact&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Wendell-Roma&theme=dark&hide_border=true&locale=pt_BR" />
 </p>
 
 ---
